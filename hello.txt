@@ -6,8 +6,15 @@ hello Git hello power！
 hello Git hello power！
 hello Git hello power！
 hello Git hello power！
+<<<<<<< HEAD
 hello Git hello power！
 hello Git hello power！
 hello Git hello power！
-hello Git hello power！1123 test
+hello Git hello power! test
+=======
+hello Git hello power！22
+hello Git hello power！22
+hello Git hello power！22
+hello Git hello power！
+>>>>>>> hot-fix
 hello Git hello power！
